@@ -40,8 +40,6 @@
   </a> 
 </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-#### 📈 GitHub Stats
-
-#### 📈 GitHub Stats
+<!-- <h3 align="left">Languages and Tools:</h3> -->
+<!-- #### 📈 GitHub Stats -->
+<!-- #### 📈 GitHub Stats -->
