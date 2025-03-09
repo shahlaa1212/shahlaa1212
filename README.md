@@ -1,8 +1,11 @@
 <p align="center">
-
   <img src="https://image.myanimelist.net/ui/0YNGMBN7CXMEk-P9BspU4WlXmBe_SGHSnNvwDnnlOFXgoK141ZQMZGqHOwW4COUaA-H7pn7b82XhWJ6H9RN-JR2r3Ga0y_Dm6qoNuOy4HQ_5pyojYSBxN_X8qJc9uVFAVlTXjzR6-iPXyJGc-YQoGztwdaIpDG-mFRbYMwZlW_Q" height="200" />
-
 </p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=ff69b4&size=20&lines=I'm+Shahlaa+Haider+Developer;Software+a+DEveloper+In+Kotlin;I'm+also+DevOps+Engineering" /></a>
+</p>
+
 
 <p align="center">
     <a href="https://www.linkedin.com/in/shahlaahaider/">
