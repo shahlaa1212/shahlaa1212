@@ -11,8 +11,8 @@
     <a href="https://www.linkedin.com/in/shahlaahaider/">
         <img src="https://img.shields.io/badge/linkedin-%23E4415F?style=flat&logo=linkedin&logoColor=white"/>
     </a>
-    <a href="https://github.com/shahlaa1212">
-        <img src="https://img.shields.io/badge/github-%23181717?style=flat&logo=github&logoColor=white"/>
+    <a href="mailto:shahlaa.alnaimi@gmail.com">
+      <img src="https://img.shields.io/badge/gmail-%23E4415F?style=flat&logo=gmail&logoColor=white"/>
     </a>
     <a href="#">
         <img src="https://komarev.com/ghpvc/?username=shahlaa1212&logo=GitHub&label=Profile%20visits&color=E4415F&logoColor=white&style=flat" alt="Profile Visits" />
